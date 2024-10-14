@@ -1,5 +1,5 @@
 # password_generator-Uncrackable-
-It is console based game so follow these steps: Cloning a repository in Visual Studio Code (VS Code) is straightforward. Follow these steps:
+It is console based so Cloning a repository in Visual Studio Code (VS Code) is straightforward. Follow these steps:
 
 Prerequisites: Make sure you have Git installed on your system. You can check by running git --version in your terminal. If not installed, download it from here. VS Code should be installed with the Git extension enabled (it usually comes built-in). Steps to Clone a Repository: Open VS Code: Launch VS Code on your computer.
 
